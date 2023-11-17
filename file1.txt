@@ -1,0 +1,3 @@
+Tushar, 50
+Chaitanya, 100
+Milind, 200
